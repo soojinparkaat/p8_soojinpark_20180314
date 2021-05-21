@@ -1,14 +1,11 @@
 d = 250;
-var n = 0;
 //c affects r
 var c = 4;
-let font;
 let h;
 let o= "NEVER - ENDING COVID-19 ";
 let s=0;
 let ts=17;
 let b=100;
-var x,y;
 
 
 
